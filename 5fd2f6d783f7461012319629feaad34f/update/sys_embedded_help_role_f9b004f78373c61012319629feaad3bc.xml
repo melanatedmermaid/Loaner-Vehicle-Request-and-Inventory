@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1118167_lva.vehicleservicetech" name="x_1118167_lva.vehicleservicetech">2b6084fb8373c61012319629feaad340</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-10 06:03:29</sys_created_on>
+        <sys_id>f9b004f78373c61012319629feaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2b6084fb8373c61012319629feaad340</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1118167_lva">5fd2f6d783f7461012319629feaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">5fd2f6d783f7461012319629feaad34f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f9b004f78373c61012319629feaad3bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-10 06:03:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
